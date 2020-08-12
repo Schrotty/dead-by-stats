@@ -1,5 +1,7 @@
 # dead-by-stats
 
+A simple statistic tool for 'Dead by Daylight'.
+
 ## Project setup
 ```
 npm install

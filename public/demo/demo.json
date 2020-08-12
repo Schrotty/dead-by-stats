@@ -1,0 +1,9 @@
+{
+  "data": [
+    {"killer": "Demo-Killer", "map": "unknown", "result": "victory"},
+    {"killer": "Demo-Killer", "map": "unknown", "result": "victory"},
+    {"killer": "Demo-Killer", "map": "unknown", "result": "victory"},
+    {"killer": "Dieter", "map": "unknown", "result": "victory"},
+    {"killer": "Horst", "map": "unknown", "result": "defeat"}
+  ]
+}
